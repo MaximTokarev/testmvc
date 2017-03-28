@@ -12,5 +12,6 @@ public class HelloController {
         model.addAttribute("greeting","Hello World");
         System.out.println("dasd");
         return "hello";
+
     }
 }
